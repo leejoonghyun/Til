@@ -13,8 +13,9 @@
 ![image-20201229151404914](command.assets/image-20201229151404914.png)
 
 - `.git`폴더가 생성된 경우 오른쪽에 `master`라는 포시가 나온다.
-
 - 폴더당 최초의 한번만 적용하면 된다.
+- `Initialized empty Git repository in C:/Users/issl1/OneDrive/바탕 화면/Git/.git/`
+  " Git 이라는 해당폴더에 새로은 레포지토리가 생겼습니다. "
 
 
 
@@ -48,6 +49,7 @@
 ### 4. remote
 
 - `git remote add origin "adress"`
+- ''깃아 / 원격저장소를 / 등록할건데 / 별명은 origin으로 해주고 / 원래 주소는 이거야''
 - 원격 저장소와 현재 로컬 저장소를 연결
 
 
@@ -55,7 +57,7 @@
 ### 5. push
 
 - `git push origin master`
-- ''깃아 올려줘 origin으로 master를''
+- ''{깃아 / 푸쉬해서;데이터 전송해줘 / 어디로;origin이라는 주소로 / 뭐뭐를;master라고 하는 줄기를''
 - 원격저장소에 로컬 저장소의 데이터를 전송
 
 
