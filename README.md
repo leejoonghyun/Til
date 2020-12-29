@@ -1,6 +1,6 @@
 # README
 
-> LeeJoongHyun Note
+> LeeJoongHyun's Note
 
 
 
