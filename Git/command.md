@@ -15,7 +15,7 @@
 - `.git`폴더가 생성된 경우 오른쪽에 `master`라는 포시가 나온다.
 - 폴더당 최초의 한번만 적용하면 된다.
 - `Initialized empty Git repository in C:/Users/issl1/OneDrive/바탕 화면/Git/.git/`
-  " Git 이라는 해당폴더에 새로은 레포지토리가 생겼습니다. "
+- " Git 이라는 해당폴더에 새로은 레포지토리가 생겼습니다. "
 
 
 
@@ -57,7 +57,7 @@
 ### 5. push
 
 - `git push origin master`
-- ''{깃아 / 푸쉬해서;데이터 전송해줘 / 어디로;origin이라는 주소로 / 뭐뭐를;master라고 하는 줄기를''
+- ''깃아 / 푸쉬해서;데이터 전송해줘 / 어디로;origin이라는 주소로 / 뭐뭐를;master라고 하는 줄기를''
 - 원격저장소에 로컬 저장소의 데이터를 전송
 
 
