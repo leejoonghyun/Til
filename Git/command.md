@@ -10,7 +10,7 @@
 
 - `.git/ ` 폴더를 생성 해준다.
 
-- ![image-20201229151404914](command.assets/image-20201229151404914.png)
+![image-20201229151404914](command.assets/image-20201229151404914.png)
 
 - `.git`폴더가 생성된 경우 오른쪽에 `master`라는 포시가 나온다.
 
@@ -57,6 +57,13 @@
 - `git push origin master`
 - ''깃아 올려줘 origin으로 master를''
 - 원격저장소에 로컬 저장소의 데이터를 전송
+
+
+
+### 6. status
+
+- `git status`
+- 현재 git 상태를 출력
 
 
 
