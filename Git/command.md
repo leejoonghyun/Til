@@ -86,3 +86,37 @@
 
 
 
+### 9. branch
+
+- `git branch 'leejoonghyun'`
+  - 새로운 branch 'leejoonghyun'을 추가 
+
+- `git branch`
+  - 현재 branch 확인
+
+- 주로 기능별로 이름을 생성
+
+
+
+- `git branch -M main`
+- master인 관리자의 이름을 main으로 변경
+- 사회운동 영향으로 인하여 반영됨
+
+
+
+### 10. switch (구 checkout)
+
+- `git switch 'leejoonghyun'`
+- 현재 위치한 branch를 'leejoonghyun' 으로 변경
+
+
+
+### 11. merge
+
+- `git merge '가고자 하는 branch'`
+- 'master' 브렌치와 'leejoonghyun' 를 합치는 과정
+- `git branch -D 'leejoonghyun'`
+  - 합친 후 쓸모없게된 branch를 제거
+
+
+
