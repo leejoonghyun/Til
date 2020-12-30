@@ -70,3 +70,19 @@
 
 
 
+### 7. clone
+
+- `git clone "adress"`
+- "깃아 복제해줘 해당 주소에 있는 데이터를"
+- 원격저장소에 있는 데이터를 로컬 저장소로 복제
+
+
+
+### 8. pull
+
+- `git pull origin master`
+- 원격저장소에 있는 데이터를 기존의 로컬저장소로 Update
+- push와 상반된 개념
+
+
+
