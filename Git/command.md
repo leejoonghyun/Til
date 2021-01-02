@@ -20,7 +20,8 @@
 - 폴더당 최초의 한번만 적용하면 된다.
 - `Initialized empty Git repository in C:/Users/issl1/OneDrive/바탕 화면/Git/.git/`
 - " Git 이라는 해당폴더에 새로은 레포지토리가 생겼습니다. "
-- 
+
+
 
 ### 1. config
 
